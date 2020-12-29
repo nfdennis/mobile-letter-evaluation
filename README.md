@@ -30,6 +30,8 @@ _Issues_
 
 ### Use existing OCR libraries
 
+Can we use confidence metrics from the library to evaluate the characters?
+
 - https://antimatter15.com/ocrad.js/demo.html
 - https://tesseract.projectnaptha.com/
 - https://kdzwinel.github.io/JS-OCR-demo/
